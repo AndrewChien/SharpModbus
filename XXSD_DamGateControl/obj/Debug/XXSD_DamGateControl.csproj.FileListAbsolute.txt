@@ -1,0 +1,13 @@
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\Config.xml
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\XXSD_DamGateControl.exe.config
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\XXSD_DamGateControl.exe
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\XXSD_DamGateControl.pdb
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\NModbus4.dll
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\NModbus4.pdb
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\NModbus4.xml
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\obj\Debug\XXSD_DamGateControl.csprojResolveAssemblyReference.cache
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\obj\Debug\XXSD_DamGateControl.ProjectInstaller.resources
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\obj\Debug\XXSD_DamGateControl.csproj.GenerateResource.Cache
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\obj\Debug\XXSD_DamGateControl.exe
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\obj\Debug\XXSD_DamGateControl.pdb

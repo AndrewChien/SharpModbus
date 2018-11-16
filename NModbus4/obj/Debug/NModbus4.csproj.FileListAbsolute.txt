@@ -1,0 +1,7 @@
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\bin\Debug\NModbus4.xml
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\bin\Debug\NModbus4.dll
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\bin\Debug\NModbus4.pdb
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\obj\Debug\Modbus.Resources.resources
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\obj\Debug\NModbus4.csproj.GenerateResource.Cache
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\obj\Debug\NModbus4.dll
+D:\ProjectsCom\XXSD_DamGateControl\NModbus4\obj\Debug\NModbus4.pdb

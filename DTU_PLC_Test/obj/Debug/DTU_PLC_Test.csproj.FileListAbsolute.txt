@@ -1,0 +1,12 @@
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\bin\Debug\DTU_PLC_Test.exe.config
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\bin\Debug\DTU_PLC_Test.exe
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\bin\Debug\DTU_PLC_Test.pdb
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\obj\Debug\DTU_PLC_Test.Form1.resources
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\obj\Debug\DTU_PLC_Test.Properties.Resources.resources
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\obj\Debug\DTU_PLC_Test.csproj.GenerateResource.Cache
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\obj\Debug\DTU_PLC_Test.exe
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\obj\Debug\DTU_PLC_Test.pdb
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\DTU_PLC_Test.exe.config
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\DTU_PLC_Test.exe
+D:\ProjectsCom\XXSD_DamGateControl\XXSD_DamGateControl\bin\Debug\DTU_PLC_Test.pdb
+D:\ProjectsCom\XXSD_DamGateControl\DTU_PLC_Test\obj\Debug\DTU_PLC_Test.csprojResolveAssemblyReference.cache

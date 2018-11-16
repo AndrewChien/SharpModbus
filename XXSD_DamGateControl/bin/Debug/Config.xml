@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <!--以下为串口通讯所需设置-->
+  <ComPort>COM3</ComPort>
+  <BaudRate>9600</BaudRate>
+  <DataBits>8</DataBits>
+  <Parity>None</Parity>
+  <StopBits>One</StopBits>
+  <!--本地址为DTU远程地址，内网穿透本机地址-->
+  <TcpAddress>172.16.10.40</TcpAddress>
+  <!--本端口为内网穿透本机端口-->
+  <TcpPort>2317</TcpPort>
+  <!--调试开关-->
+  <DebugSwitch>1</DebugSwitch>
+  <!--从站地址-->
+  <SlaveId>6</SlaveId>
+  <SlaveId1>6</SlaveId1>
+  <SlaveId2>6</SlaveId2>
+  <SlaveId3>6</SlaveId3>
+  <SlaveId4>6</SlaveId4>
+  <SlaveId5>6</SlaveId5>
+  <SlaveId6>6</SlaveId6>
+  <SlaveId7>6</SlaveId7>
+  <SlaveId8>6</SlaveId8>
+  <SlaveId9>6</SlaveId9>
+  <!--寄存器地址-->
+  <RegisterAdd1>16</RegisterAdd1>
+  <RegisterAdd2>17</RegisterAdd2>
+  <RegisterAdd3>18</RegisterAdd3>
+  <Delay>2000</Delay>
+  <!--服务地址-->
+  <PublishHost>127.0.0.1</PublishHost>
+  <!--服务端口-->
+  <PublishPort>8800</PublishPort>
+  <!--从站连接超时时间-->
+  <SocketDelay>20</SocketDelay>
+</Configuration>

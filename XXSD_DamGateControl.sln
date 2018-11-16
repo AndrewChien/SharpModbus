@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXSD_DamGateControl", "XXSD_DamGateControl\XXSD_DamGateControl.csproj", "{38D08B15-6E3C-48F9-B8D9-6B6816DD08E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModbus4", "NModbus4\NModbus4.csproj", "{FF96B252-2B24-44A1-A09C-6401B5D7ED23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTU_PLC_Test", "DTU_PLC_Test\DTU_PLC_Test.csproj", "{5FE1ED22-121B-45F2-9FE7-95C361D6B512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D08B15-6E3C-48F9-B8D9-6B6816DD08E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D08B15-6E3C-48F9-B8D9-6B6816DD08E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D08B15-6E3C-48F9-B8D9-6B6816DD08E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D08B15-6E3C-48F9-B8D9-6B6816DD08E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF96B252-2B24-44A1-A09C-6401B5D7ED23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF96B252-2B24-44A1-A09C-6401B5D7ED23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF96B252-2B24-44A1-A09C-6401B5D7ED23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF96B252-2B24-44A1-A09C-6401B5D7ED23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE1ED22-121B-45F2-9FE7-95C361D6B512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE1ED22-121B-45F2-9FE7-95C361D6B512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE1ED22-121B-45F2-9FE7-95C361D6B512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE1ED22-121B-45F2-9FE7-95C361D6B512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
